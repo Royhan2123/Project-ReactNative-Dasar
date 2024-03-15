@@ -10,6 +10,6 @@
   <li>then you first run the avd from your android studio, then when it is running and the avd appears, then you reopen the react-native project that you created earlier, then type in the terminal: npm run android, and it will automatically install the packages for running Android, and will also ask to install TypeScript. and when it's finished, your React-Native application will automatically run directly on the virtual device from Android Studio that you ran earlier. </li>
   <br>
   <li> [React Native Documentation](https://reactnative.dev/).</li>
-  <li> [Expo Documentation](https://docs.expo.dev/).</li>
+  <li> [Expo Documentation](https://expo.dev/).</li>
 </ul>
   
